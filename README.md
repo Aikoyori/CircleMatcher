@@ -2,7 +2,7 @@
 
 Totally not a clone of Bejeweled. This was made for my university project for Java game.
 
-It utilises LibGDX & some of it's features.
+It utilises LibGDX & some of its features.
 
 
 # Building
